@@ -13,6 +13,7 @@
 		B17A763E25C393FF00C5C8EB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17A763D25C393FF00C5C8EB /* Preview Assets.xcassets */; };
 		B17A764925C3940000C5C8EB /* _3_RockPaperScissorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17A764825C3940000C5C8EB /* _3_RockPaperScissorsTests.swift */; };
 		B17A765425C3940000C5C8EB /* _3_RockPaperScissorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17A765325C3940000C5C8EB /* _3_RockPaperScissorsUITests.swift */; };
+		B17A766525C3946000C5C8EB /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17A766425C3946000C5C8EB /* Notes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B17A764F25C3940000C5C8EB /* 03_RockPaperScissorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 03_RockPaperScissorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B17A765325C3940000C5C8EB /* _3_RockPaperScissorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _3_RockPaperScissorsUITests.swift; sourceTree = "<group>"; };
 		B17A765525C3940000C5C8EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B17A766425C3946000C5C8EB /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				B17A763625C393F900C5C8EB /* _3_RockPaperScissorsApp.swift */,
 				B17A763825C393F900C5C8EB /* ContentView.swift */,
+				B17A766425C3946000C5C8EB /* Notes.swift */,
 				B17A763A25C393FF00C5C8EB /* Assets.xcassets */,
 				B17A763F25C393FF00C5C8EB /* Info.plist */,
 				B17A763C25C393FF00C5C8EB /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				B17A763925C393F900C5C8EB /* ContentView.swift in Sources */,
 				B17A763725C393F900C5C8EB /* _3_RockPaperScissorsApp.swift in Sources */,
+				B17A766525C3946000C5C8EB /* Notes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
